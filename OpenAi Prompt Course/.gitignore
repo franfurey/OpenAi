@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+*.egg-info/
+dist/
+build/
+venv/
+env/
+config.ini
+secrets.txt
