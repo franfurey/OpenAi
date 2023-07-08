@@ -1,0 +1,8 @@
+--upgrade pip
+python-dotenv
+openai
+ipykernel
+langchain
+tiktoken
+pandas
+docarray
