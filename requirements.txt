@@ -1,4 +1,4 @@
---upgrade pip
+pip
 python-dotenv
 openai
 ipykernel
@@ -6,3 +6,10 @@ langchain
 tiktoken
 pandas
 docarray
+pypdf
+yt_dlp
+pydub
+bs4
+google-search-results
+feast
+chromadb
